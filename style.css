@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #080808;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #ui {
+    margin-top: 10px;
+  }
+  
+  canvas {
+    background: #f0f0f0;
+    border: 3px solid #05013b;
+    margin-top: 10px;
+  }
+  
